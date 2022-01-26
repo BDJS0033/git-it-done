@@ -11,4 +11,4 @@ var getUserRepos = function(user) {
     });
   };
 
-  getUserRepos("bdjs0033");
+  getUserRepos("BDJS0033");
